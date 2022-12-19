@@ -37,7 +37,8 @@ body{padding:0;
   width: 100px;
   height: 50px;
   background:lightgreen;
-  transition: width 2s;}
+  transition: width 2s;
+  border-radius:5px 30px 30px 5px;}
 .lock1:hover{width:900px;}
 
 .div2 {transition-timing-function:India ;}
@@ -45,7 +46,8 @@ body{padding:0;
   width: 100px;
   height: 25px;
   background:lightgreen;
-  transition: width 2s;}
+  transition: width 2s;
+  border-radius:5px 30px 30px 5px;}
 .lock2:hover{width:750px;}
 
 .div3 {transition-timing-function:France;}
@@ -53,7 +55,8 @@ body{padding:0;
   width: 100px;
   height: 25px;
   background:lightgreen;
-  transition: width 2s;}
+  transition: width 2s;
+  border-radius:5px 30px 30px 5px;}
 .lock3:hover{width:700px;}
 
 .div4{transition-timing-function:Germany;}
@@ -61,7 +64,8 @@ body{padding:0;
   width: 100px;
   height: 25px;
   background: lightgreen;
-  transition: width 2s;}
+  transition: width 2s;
+  border-radius:5px 30px 30px 5px;}
 .lock4:hover{width:600px;}
 
 .div5{transition-timing-function:Brazil;}
@@ -69,7 +73,8 @@ body{padding:0;
   width: 100px;
   height: 25px;
   background:lightgreen;
-  transition: width 2s;}
+  transition: width 2s;
+  border-radius:5px 30px 30px 5px;}
 .lock5:hover{width:500px;}
 
 .div6{transition-timing-function:South Korea;}
@@ -77,7 +82,8 @@ body{padding:0;
   width: 100px;
   height: 50px;
   background: lightgreen;
-  transition: width 2s;}
+  transition: width 2s;
+  border-radius:5px 30px 30px 5px;}
 .lock6:hover{width:400px;}
 
 .div7{transition-timing-function:Japan;}
@@ -85,7 +91,8 @@ body{padding:0;
   width: 100px;
   height: 25px;
   background: lightgreen;
-  transition: width 2s;}
+  transition: width 2s;
+  border-radius:5px 30px 30px 5px;}
 .lock7:hover{width:300px;}
 
 .div8{transition-timing-function:Italy ;}
@@ -93,7 +100,8 @@ body{padding:0;
   width: 100px;
   height: 25px;
   background: lightgreen;
-  transition: width 2s;}
+  transition: width 2s;
+  border-radius:5px 30px 30px 5px;}
 .lock8:hover{width:200px;}
 
 .div9{transition-timing-function:United Kingdom;}
@@ -101,7 +109,8 @@ body{padding:0;
   width: 100px;
   height: 50px;
   background:lightgreen;
-  transition: width 2s;}
+  transition: width 2s;
+  border-radius:5px 30px 30px 5px;}
 .lock9:hover{width:150px;}
 
 .div10{transition-timing-function:Russia ;}
@@ -109,7 +118,8 @@ body{padding:0;
   width: 100px;
   height: 25px;
   background:lightgreen;
-  transition: width 2s;}
+  transition: width 2s;
+  border-radius:5px 30px 30px 5px;}
 .lock10:hover{width:120px;}
 
 
