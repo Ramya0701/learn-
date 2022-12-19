@@ -1,0 +1,165 @@
+
+body{padding:0;
+     margin:0;}
+.shift1{background-color:lightblue;
+        color:black;
+        font-family:verdana;
+        font-size:110%;}
+.ctrl1{padding:100px 100px 50px 300px;}
+.enter1{animation:wiggle 2s linear infinite;}
+@keyframes wiggle {
+  30%,{transform: rotateZ(10);}
+  0% {transform: rotateZ(-20deg);}
+  }
+.enter1{padding:0px 100px 150px 700px;}
+
+
+
+
+.shift2{background-color:lightpink;
+        color:black; 
+        font-family:verdana;
+        font-size:150%;}
+.ctrl2{padding:100px 200px 50px 500px;}
+.enter2{height:400px;
+        width:500px;
+        padding:0px 10px 150px 50px;}
+
+
+
+.shift3{background-color:lightblue;
+        color:black;
+        font-family:verdana;
+        font-size:110%;
+        padding:100px 10px 200px 150px;}
+.div1 {transition-timing-function:United States;}
+.lock1{
+  width: 100px;
+  height: 50px;
+  background:lightgreen;
+  transition: width 2s;}
+.lock1:hover{width:900px;}
+
+.div2 {transition-timing-function:India ;}
+.lock2{
+  width: 100px;
+  height: 25px;
+  background:lightgreen;
+  transition: width 2s;}
+.lock2:hover{width:750px;}
+
+.div3 {transition-timing-function:France;}
+.lock3{
+  width: 100px;
+  height: 25px;
+  background:lightgreen;
+  transition: width 2s;}
+.lock3:hover{width:700px;}
+
+.div4{transition-timing-function:Germany;}
+.lock4{
+  width: 100px;
+  height: 25px;
+  background: lightgreen;
+  transition: width 2s;}
+.lock4:hover{width:600px;}
+
+.div5{transition-timing-function:Brazil;}
+.lock5{
+  width: 100px;
+  height: 25px;
+  background:lightgreen;
+  transition: width 2s;}
+.lock5:hover{width:500px;}
+
+.div6{transition-timing-function:South Korea;}
+.lock6{
+  width: 100px;
+  height: 50px;
+  background: lightgreen;
+  transition: width 2s;}
+.lock6:hover{width:400px;}
+
+.div7{transition-timing-function:Japan;}
+.lock7{
+  width: 100px;
+  height: 25px;
+  background: lightgreen;
+  transition: width 2s;}
+.lock7:hover{width:300px;}
+
+.div8{transition-timing-function:Italy ;}
+.lock8{
+  width: 100px;
+  height: 25px;
+  background: lightgreen;
+  transition: width 2s;}
+.lock8:hover{width:200px;}
+
+.div9{transition-timing-function:United Kingdom;}
+.lock9{
+  width: 100px;
+  height: 50px;
+  background:lightgreen;
+  transition: width 2s;}
+.lock9:hover{width:150px;}
+
+.div10{transition-timing-function:Russia ;}
+.lock10{
+  width: 100px;
+  height: 25px;
+  background:lightgreen;
+  transition: width 2s;}
+.lock10:hover{width:120px;}
+
+
+.shift4{background-color:lightpink;
+        color:black; 
+        font-family:verdana;
+         padding:150px 10px 300px 150px; }
+.enter3
+       table,th,td{border:2px solid black;
+       font-size:130%;}
+.scroll{font-size:120%}
+.del{background-color:lightyellow;
+     color:black;
+     font-family:verdana;
+     font-size:110%;
+     border-color:black;
+     border-radius:20px;}
+.del:hover{background-color: coral;}
+.dn{padding:10px 50px 0px 100px;}
+
+
+.shift5{background-color:lightblue;
+        color:black; 
+        font-family:verdana;
+        font-size:110%;
+        text-align:center;
+        padding:150px 0px 0px 0px;}
+.f1{display:flex;
+    width:50%;
+    padding:20px 100px 150px 300px;}
+.home{text-align:left;
+      padding:20px 100px 0px 50px;}
+.enter4{height:400px;
+        width:500px;
+        padding:20px 100px 0px 300px;}
+
+
+
+
+.shift6{background-color:lightpink;
+        color:black;
+        font-family:verdana;
+        font-size:110%;
+        padding:100px 50px 50px 100px;}
+
+.enter5{padding:10px 100px 25px 500px;}
+
+
+
+
+        
+
+
